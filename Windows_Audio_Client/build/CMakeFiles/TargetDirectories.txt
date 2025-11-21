@@ -1,0 +1,3 @@
+C:/Desktop/Audio_C++/Socket_DSP/Windows_Audio_Client/build/CMakeFiles/audio_client.dir
+C:/Desktop/Audio_C++/Socket_DSP/Windows_Audio_Client/build/CMakeFiles/edit_cache.dir
+C:/Desktop/Audio_C++/Socket_DSP/Windows_Audio_Client/build/CMakeFiles/rebuild_cache.dir

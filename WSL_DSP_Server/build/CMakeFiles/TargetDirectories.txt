@@ -1,0 +1,3 @@
+/mnt/c/Desktop/Audio_C++/Socket_DSP/WSL_DSP_Server/build/CMakeFiles/dsp_server.dir
+/mnt/c/Desktop/Audio_C++/Socket_DSP/WSL_DSP_Server/build/CMakeFiles/edit_cache.dir
+/mnt/c/Desktop/Audio_C++/Socket_DSP/WSL_DSP_Server/build/CMakeFiles/rebuild_cache.dir

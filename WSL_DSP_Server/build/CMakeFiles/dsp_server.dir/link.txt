@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dsp_server.dir/dsp_server.cpp.o -o dsp_server  /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm 
